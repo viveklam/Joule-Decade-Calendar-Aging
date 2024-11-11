@@ -1,0 +1,260 @@
+Cell_type,Cell_chemistry,Form_factor,Approximate Recording Frequency,Test_id,SOC,Temperature,Cell_id,Lot,Comment
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000001,50,24,C00001,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000001,50,24,C00002,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000001,50,24,C00003,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000001,50,24,C00004,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000001,50,24,C00005,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000001,50,24,C00006,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000002,100,24,C00007,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000002,100,24,C00008,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000002,100,24,C00009,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000002,100,24,C00010,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000002,100,24,C00011,L001,
+Panasonic NCR18650GA,NCA,18650,bi-annual,T0000002,100,24,C00012,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000003,50,60,C00013,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000003,50,60,C00014,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60, 2nd high rate RPT on diagnostic#37 has anomalies "
+Panasonic NCR18650GA,NCA,18650,weekly,T0000003,50,60,C00015,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000003,50,60,C00016,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000003,50,60,C00017,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000003,50,60,C00018,L001,"Week 10 data deleted, potentially swapped with soc=100, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000004,100,60,C00019,L001,"Week 10 data deleted, potentially swapped with soc=50, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000004,100,60,C00020,L001,"Week 10 data deleted, potentially swapped with soc=50, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000004,100,60,C00021,L001,"Week 10 data deleted, potentially swapped with soc=50, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000004,100,60,C00022,L001,"Week 10 data deleted, potentially swapped with soc=50, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000004,100,60,C00023,L001,"Week 10 data deleted, potentially swapped with soc=50, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000004,100,60,C00024,L001,"Week 10 data deleted, potentially swapped with soc=50, Temp=60"
+Panasonic NCR18650GA,NCA,18650,weekly,T0000005,50,85,C00025,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000005,50,85,C00026,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000005,50,85,C00027,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000005,50,85,C00028,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000005,50,85,C00029,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000005,50,85,C00030,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000006,100,85,C00031,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000006,100,85,C00032,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000006,100,85,C00033,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000006,100,85,C00034,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000006,100,85,C00035,L001,
+Panasonic NCR18650GA,NCA,18650,weekly,T0000006,100,85,C00036,L001,
+Panasonic NCR18650B,NCA,18650,monthly,T0000007,50,24,C00037,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000007,50,24,C00038,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000007,50,24,C00039,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000007,50,24,C00040,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000007,50,24,C00041,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000008,100,24,C00042,L002,M11 data deleted. Erroneous
+Panasonic NCR18650B,NCA,18650,monthly,T0000008,100,24,C00043,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000008,100,24,C00044,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000008,100,24,C00045,L002,
+Panasonic NCR18650B,NCA,18650,monthly,T0000008,100,24,C00046,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000009,50,45,C00047,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000009,50,45,C00048,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000009,50,45,C00049,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000010,100,45,C00050,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000010,100,45,C00051,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000010,100,45,C00052,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000011,50,60,C00053,L002,W89 erroneous data deleted
+Panasonic NCR18650B,NCA,18650,weekly,T0000011,50,60,C00054,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000011,50,60,C00055,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000012,100,60,C00056,L002,W16 erroneous data deleted
+Panasonic NCR18650B,NCA,18650,weekly,T0000012,100,60,C00057,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000012,100,60,C00058,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000013,50,85,C00059,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000013,50,85,C00060,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000013,50,85,C00061,L002,
+Panasonic NCR18650B,NCA,18650,weekly,T0000014,100,85,C00062,L002,only 1 data point
+Panasonic NCR18650B,NCA,18650,weekly,T0000014,100,85,C00063,L002,only 1 data point
+Panasonic NCR18650B,NCA,18650,weekly,T0000014,100,85,C00064,L002,only 1 data point
+Ultralife UBP001,LCO,prismatic,monthly,T0000015,100,24,C00065,L003,
+Ultralife UBP001,LCO,prismatic,monthly,T0000015,100,24,C00066,L003,
+Ultralife UBP001,LCO,prismatic,monthly,T0000015,100,24,C00067,L003,
+Ultralife UBP001,LCO,prismatic,monthly,T0000015,100,24,C00068,L003,
+Ultralife UBP001,LCO,prismatic,monthly,T0000015,100,24,C00069,L003,
+Ultralife UBP001,LCO,prismatic,monthly,T0000015,100,24,C00070,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000016,100,60,C00071,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000016,100,60,C00072,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000016,100,60,C00073,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000016,100,60,C00074,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000016,100,60,C00075,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000016,100,60,C00076,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000017,100,85,C00077,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000017,100,85,C00078,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000017,100,85,C00079,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000017,100,85,C00080,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000017,100,85,C00081,L003,
+Ultralife UBP001,LCO,prismatic,weekly,T0000017,100,85,C00082,L003,
+Ultralife 502030,LCO,pouch,monthly,T0000018,50,24,C00083,L004,has only 1 week data
+Ultralife 502030,LCO,pouch,monthly,T0000018,50,24,C00084,L004,M37 erroneous data deleted
+Ultralife 502030,LCO,pouch,monthly,T0000018,50,24,C00085,L004,M37 erroneous data deleted
+Ultralife 502030,LCO,pouch,monthly,T0000018,50,24,C00086,L004,M37 erroneous data deleted
+Ultralife 502030,LCO,pouch,monthly,T0000018,50,24,C00087,L004,M37 erroneous data deleted
+Ultralife 502030,LCO,pouch,half yearly,T0000019,50,24,C00088,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000019,50,24,C00089,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000019,50,24,C00090,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000019,50,24,C00091,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000019,50,24,C00092,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000020,50,24,C00093,L004,Data is for double bagged.
+Ultralife 502030,LCO,pouch,half yearly,T0000020,50,24,C00094,L004,Data is for double bagged.
+Ultralife 502030,LCO,pouch,half yearly,T0000020,50,24,C00095,L004,Data is for double bagged.
+Ultralife 502030,LCO,pouch,half yearly,T0000020,50,24,C00096,L004,Data is for double bagged.
+Ultralife 502030,LCO,pouch,half yearly,T0000020,50,24,C00097,L004,Data is for double bagged.
+Ultralife 502030,LCO,pouch,half yearly,T0000021,100,24,C00098,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000021,100,24,C00099,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000021,100,24,C00100,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000021,100,24,C00101,L004,
+Ultralife 502030,LCO,pouch,half yearly,T0000021,100,24,C00102,L004,
+Sony-Murata US18650VTC6,NMC,18650,monthly,T0000022,100,24,C00103,L005,Erronenous data at M04 deleted
+Sony-Murata US18650VTC6,NMC,18650,monthly,T0000022,100,24,C00104,L005,
+Sony-Murata US18650VTC6,NMC,18650,monthly,T0000022,100,24,C00105,L005,
+Sony-Murata US18650VTC6,NMC,18650,monthly,T0000022,100,24,C00106,L005,
+Sony-Murata US18650VTC6,NMC,18650,monthly,T0000022,100,24,C00107,L005,
+Sony-Murata US18650VTC6,NMC,18650,monthly,T0000022,100,24,C00108,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000023,100,60,C00109,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000023,100,60,C00110,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000023,100,60,C00111,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000023,100,60,C00112,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000023,100,60,C00113,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000023,100,60,C00114,L005,
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000024,100,85,C00115,L005,Only 1 data point
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000024,100,85,C00116,L005,Only 1 data point
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000024,100,85,C00117,L005,Only 1 data point
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000024,100,85,C00118,L005,Only 1 data point
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000024,100,85,C00119,L005,Only 1 data point
+Sony-Murata US18650VTC6,NMC,18650,weekly,T0000024,100,85,C00120,L005,Only 1 data point
+K2 Energy LFP18650P,LFP,18650,monthly,T0000025,50,24,C00121,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000025,50,24,C00122,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000025,50,24,C00123,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000025,50,24,C00124,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000025,50,24,C00125,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000026,100,24,C00126,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000026,100,24,C00127,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000026,100,24,C00128,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000026,100,24,C00129,L006,
+K2 Energy LFP18650P,LFP,18650,monthly,T0000026,100,24,C00130,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000027,50,45,C00131,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000027,50,45,C00132,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000027,50,45,C00133,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000027,50,45,C00134,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000027,50,45,C00135,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000028,100,45,C00136,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000028,100,45,C00137,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000028,100,45,C00138,L006,Erronenous data at W86 deleted
+K2 Energy LFP18650P,LFP,18650,weekly,T0000028,100,45,C00139,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000028,100,45,C00140,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000029,50,60,C00141,L006,W32 erroneous data deleted
+K2 Energy LFP18650P,LFP,18650,weekly,T0000029,50,60,C00142,L006,W32 erroneous data deleted
+K2 Energy LFP18650P,LFP,18650,weekly,T0000029,50,60,C00143,L006,W32 and W91 erroneous data deleted
+K2 Energy LFP18650P,LFP,18650,weekly,T0000029,50,60,C00144,L006,W32 and W91 erroneous data deleted
+K2 Energy LFP18650P,LFP,18650,weekly,T0000029,50,60,C00145,L006,W32 and W91 erroneous data deleted
+K2 Energy LFP18650P,LFP,18650,weekly,T0000030,100,60,C00146,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000030,100,60,C00147,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000030,100,60,C00148,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000030,100,60,C00149,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000030,100,60,C00150,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000031,50,85,C00151,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000031,50,85,C00152,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000031,50,85,C00153,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000031,50,85,C00154,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000031,50,85,C00155,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000032,100,85,C00156,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000032,100,85,C00157,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000032,100,85,C00158,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000032,100,85,C00159,L006,
+K2 Energy LFP18650P,LFP,18650,weekly,T0000032,100,85,C00160,L006,
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000033,100,60,C00161,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000033,100,60,C00162,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000033,100,60,C00163,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000033,100,60,C00164,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000033,100,60,C00165,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000033,100,60,C00166,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000034,100,85,C00167,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000034,100,85,C00168,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000034,100,85,C00169,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000034,100,85,C00170,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000034,100,85,C00171,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+K2 Energy LFP18650P_v2,LFP,18650,weekly,T0000034,100,85,C00172,L007,"different Lot from the other K2 Energy Cells, not included in analysis"
+Tenergy 302030,LCO,pouch,monthly,T0000035,100,24,C00173,L008,
+Tenergy 302030,LCO,pouch,monthly,T0000035,100,24,C00174,L008,
+Tenergy 302030,LCO,pouch,monthly,T0000035,100,24,C00175,L008,
+Tenergy 302030,LCO,pouch,monthly,T0000035,100,24,C00176,L008,
+Tenergy 302030,LCO,pouch,monthly,T0000035,100,24,C00177,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000036,100,60,C00178,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000036,100,60,C00179,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000036,100,60,C00180,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000036,100,60,C00181,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000036,100,60,C00182,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000037,100,85,C00183,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000037,100,85,C00184,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000037,100,85,C00185,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000037,100,85,C00186,L008,
+Tenergy 302030,LCO,pouch,weekly,T0000037,100,85,C00187,L008,
+Tenergy 302030,LCO,pouch,half yearly,T0000038,50,24,C00188,L008,
+Tenergy 302030,LCO,pouch,half yearly,T0000038,50,24,C00189,L008,
+Tenergy 302030,LCO,pouch,half yearly,T0000038,50,24,C00190,L008,
+Tenergy 302030,LCO,pouch,half yearly,T0000038,50,24,C00191,L008,
+Tenergy 302030,LCO,pouch,half yearly,T0000038,50,24,C00192,L008,
+Tenergy 302030,LCO,pouch,yearly,T0000039,50,24,C00193,L008,
+Tenergy 302030,LCO,pouch,yearly,T0000039,50,24,C00194,L008,
+Tenergy 302030,LCO,pouch,yearly,T0000039,50,24,C00195,L008,"First diagnostic (M00) Test Time and Step time are in xd xx:xx:xx format. Left in raw data as is, doesn't affect summary data since it bases of index"
+Tenergy 302030,LCO,pouch,yearly,T0000039,50,24,C00196,L008,
+Tenergy 302030,LCO,pouch,yearly,T0000039,50,24,C00197,L008,
+Tenergy 302030,LCO,pouch,yearly,T0000039,50,24,C00198,L008,
+Tenergy 302030,LCO,pouch,two yearly,T0000040,50,24,C00199,L008,
+Tenergy 302030,LCO,pouch,two yearly,T0000040,50,24,C00200,L008,
+Tenergy 302030,LCO,pouch,two yearly,T0000040,50,24,C00201,L008,
+Tenergy 302030,LCO,pouch,two yearly,T0000040,50,24,C00202,L008,
+Tenergy 302030,LCO,pouch,two yearly,T0000040,50,24,C00203,L008,
+Tenergy 302030,LCO,pouch,two yearly,T0000040,50,24,C00204,L008,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000041,50,24,C00205,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000041,50,24,C00206,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000041,50,24,C00207,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000041,50,24,C00208,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000041,50,24,C00209,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000042,100,24,C00210,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000042,100,24,C00211,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000042,100,24,C00212,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000042,100,24,C00213,L009,
+K2 Energy LFP18650E,LFP,18650,monthly,T0000042,100,24,C00214,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000043,50,45,C00215,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000043,50,45,C00216,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000043,50,45,C00217,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000043,50,45,C00218,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000043,50,45,C00219,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000044,100,45,C00220,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000044,100,45,C00221,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000044,100,45,C00222,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000044,100,45,C00223,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000044,100,45,C00224,L009,"week99/diagnum98 cycle 6 has corrupted energy data (not removed present in raw data, looks like: 525,221.92287)"
+K2 Energy LFP18650E,LFP,18650,weekly,T0000045,50,60,C00225,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000045,50,60,C00226,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000045,50,60,C00227,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000045,50,60,C00228,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000045,50,60,C00229,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000046,100,60,C00230,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000046,100,60,C00231,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000046,100,60,C00232,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000046,100,60,C00233,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000046,100,60,C00234,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000047,50,85,C00235,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000047,50,85,C00236,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000047,50,85,C00237,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000047,50,85,C00238,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000047,50,85,C00239,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000048,100,85,C00240,L009,Diagnostic 3 partially complete third high rate RPT not fully available
+K2 Energy LFP18650E,LFP,18650,weekly,T0000048,100,85,C00241,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000048,100,85,C00242,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000048,100,85,C00243,L009,
+K2 Energy LFP18650E,LFP,18650,weekly,T0000048,100,85,C00244,L009,
+K2 Energy LFP18650E_v2,LFP,18650,monthly,T0000049,50,24,C00245,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,monthly,T0000049,50,24,C00246,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,monthly,T0000049,50,24,C00247,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,monthly,T0000049,50,24,C00248,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,monthly,T0000049,50,24,C00249,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000050,100,60,C00250,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000050,100,60,C00251,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000050,100,60,C00252,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000050,100,60,C00253,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000050,100,60,C00254,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000051,100,85,C00255,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000051,100,85,C00256,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000051,100,85,C00257,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000051,100,85,C00258,L010,"Different lot from other K2 Energy cells, not used in analysis"
+K2 Energy LFP18650E_v2,LFP,18650,weekly,T0000051,100,85,C00259,L010,"Different lot from other K2 Energy cells, not used in analysis"
