@@ -3,10 +3,10 @@
 This repository contains the data and the code to generate the figures present in *A Decade of Insights: Delving into Calendar Aging Trends and Implications* by Vivek Lam et al (2024)̦. The data contained and the code provided are described in greater detail below.
 
 ## Data
-The data included is calendar aging data taken at 24°C, 45°C, 60°C, and 85°C at 50% or 100% for 8 different cell types. For further testing details see the accompanying paper. For a summary of all cells tested in this work and their corresponding cell ids see [Joule_cell_id.csv](Joule_cell_id.csv). The data itself is stored in the following two folders depending on the data type needed:
+The data is hosted on the corresponding OSF repository (https://osf.io/ju325/). The data included is calendar aging data taken at 24°C, 45°C, 60°C, and 85°C at 50% or 100% for 8 different cell types. For further testing details see the accompanying paper. For a summary of all cells tested in this work and their corresponding cell ids see [Joule_cell_id.csv](Joule_cell_id.csv). The data itself is stored in the following two folders depending on the data type needed:
 
-- **[Raw Data](joule_declass_raw)**: Raw data containing whole voltage, current, time, etc curves at every diagnostic. This allows easy plotting of things like the voltage vs capacity curve at each diagnostic cycle. Each file is a json file with a data, comment, and metadata field. Name of each file is of the form {cell_id}_raw.json. Data across files are standardized to be in the same units (time in seconds, current in amps, etc).
-- **[Summary Data](joule_declass_sum)**: Summary data that summarizes each diagnostic with a set of features such as capacity, energy, resistance. This allows easy plotting of capacity and resistance vs time. Each file is a json file with a data, comment, and metadata field. The name of each file is of the form {cell_id}_sum.json. See [joule_generate_summary_data.ipynb](notebooks/using_data_example.ipynb) to see how the summary data is generated from the raw data, and full calculation of features of interest. 
+- **[Raw Data](https://osf.io/ju325/)**: Raw data containing whole voltage, current, time, etc curves at every diagnostic. This allows easy plotting of things like the voltage vs capacity curve at each diagnostic cycle. Each file is a json file with a data, comment, and metadata field. The name of each file is of the form {cell_id}_raw.json. Data across files are standardized to be in the same units (time in seconds, current in amps, etc).
+- **[Summary Data](https://osf.io/ju325/)**: Summary data that summarizes each diagnostic with a set of features such as capacity, energy, and resistance. This allows easy plotting of capacity and resistance vs time. Each file is a json file with a data, comment, and metadata field. The name of each file is of the form {cell_id}_sum.json. See [joule_generate_summary_data.ipynb](notebooks/using_data_example.ipynb) to see how the summary data is generated from the raw data, and full calculation of features of interest. 
 
 ## Summary Data Feature Naming Convention
 
@@ -26,12 +26,12 @@ For further calculation details of all metrics see [Joule_sum_data_builder.py](s
 - **[joule_generate_summary_data.ipynb](notebooks/using_data_example.ipynb)**: Example of the code that is used to generate the summary data from the raw data.
 - **[figure1_cap_res_summary.ipynb](notebooks/figure1_cap_res_summary.ipynb)**: Produces figure 1 of the paper summarizing the trends of resistance and capacity. 
 - **[figure2_Arrhenius_prediction.ipynb](notebooks/figure2_Arrhenius_prediction.ipynb)**: Produces figure 2 of the paper showing a simple Arrhenius prediction of room temperature data
-- **[figure3-6_txFittingResults.ipynb](notebooks/figure3-6_txFittingResults.ipynb)**: Produces figure 3, 4, 5, and 6 in the paper. This notebook shows the process fo 
+- **[figure3-6_txFittingResults.ipynb](notebooks/figure3-6_txFittingResults.ipynb)**: Produces figures 3, 4, 5, and 6 in the paper. This notebook shows the process fo 
 - **[figure7_variability.ipynb](notebooks/figure7_variability.ipynb)**: Produces figure 7 in the paper. Shows variability of capacity and resistance.
 - **[figure8_tx_eol_prediction.ipynb](notebooks/figure8_tx_eol_prediction.ipynb)**: Produces figure 8 in the paper. Shows the prediction error of tx models taking increasing amount of data.
 
 ## Structuring Code:
-These modules contain needed functions to use the raw data and generate certain plots. 
+These modules contain the needed functions to use the raw data and generate certain plots. 
 - **[Joule_raw_data_builder.py](structuring_code/Joule_raw_data_builder.py)**: Contains code needed to load in raw data.
 - **[Joule_sum_data_builder.py](structuring_code/Joule_raw_data_builder.py)**: Contains code needed to load in summary data as well as code for generating summary data from the raw data.
 - **[plotting_and_fitting_helpers.py](structuring_code/plotting_and_fitting_helpers.py)**: Contains code needed to generate several plots such as smoothing function used, fitting functions for power-law expressions, etc. 
