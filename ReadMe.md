@@ -11,15 +11,19 @@ The data is hosted on the corresponding OSF repository (https://osf.io/ju325/). 
 ## Summary Data Feature Naming Convention
 
 The summary data calculates certain features of interest. The naming convention for ease of use is explained below:
-- Capacity metrics: Capacity metrics end in "_capacity" and are calculated for low rate (RPT0.2C), high rate(RPT_HighC), for the 1st, 2nd, and 3rd cycle (0,1,2). These are calculated for both charge (C) and discharge (D), and CV hold or not where applicable. Examples:
+- Capacity metrics: Capacity metrics (Ah) end in "_capacity" and are calculated for low rate (RPT0.2C), high rate(RPT_HighC), for the 1st, 2nd, and 3rd cycle (0,1,2). These are calculated for both charge (C) and discharge (D), and CV hold or not where applicable. Examples:
     - RPT0.2C_2_D_capacity (low rate RPT, 3rd diagnostic cycle, discharge capacity)
     - RPT_HighC_0_C_CV_capacity (high rate RPT, 1st diagnostic cycle, charge capacity, including CV)
-- Energy metrics: Energy metrics have the same naming convention as capacity metrics, but end in "_energy". Example:
+- Energy metrics: Energy metrics (Wh) have the same naming convention as capacity metrics, but end in "_energy". Example:
     - RPT0.2C_1_D_energy (low rate RPT, 2nd diagnostic cycle, discharge capacity)
-- Resistance metrics: Steady state resistance metrics start with Res_SS and are taken between the 1st, 2nd or 3rd low and high rate RPT on discharge only as charging rate is fixed. Example:
+- Resistance metrics: Steady state resistance metrics (Ohm) start with Res_SS and are taken between the 1st, 2nd or 3rd low and high rate RPT on discharge only as charging rate is fixed. Example:
     - Res_SS_2_D (Steady state resistance using the 3rd low and high rate RPT)
+- Time metrics: To denote the time diagnostics were performed some metrics are reported in the summary data:
+    - diag_num: The diagnostic number
+    - Calendar_time(date): The date of the diagnostic
+    - Calendar_DateTime(days): The number of days since the first diagnostic cycle
 
-For further calculation details of all metrics see [Joule_sum_data_builder.py](structuring_code/Joule_raw_data_builder.py).
+For further calculation details of all metrics see [Joule_sum_data_builder.py](structuring_code/Joule_sum_data_builder.py).
 
 ## Notebooks: 
 - **[using_data_example.ipynb](notebooks/using_data_example.ipynb)**: Example notebook of how to use the data, and what data is present
